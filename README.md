@@ -18,7 +18,7 @@ The example of several research works which focus on VizRec which I mentioned ab
 
 
 
-I hope this repo can help anyone who want to work on visualization recommendation systems field. I am currently working in this field, so if anyone interested and want to colaborate. Please do not hesitate to contact me through my email r.mafrur [at[] uq [dot] edu [dot] au.
+I hope this repo can help anyone who want to work on visualization recommendation systems field. I am currently working in this field, so if anyone interested and want to colaborate. Please do not hesitate to contact me through my email **r.mafrur [at] uq [dot] edu [dot] au**.
 
 Thank you 
 
